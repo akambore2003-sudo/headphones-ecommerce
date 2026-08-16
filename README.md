@@ -1,4 +1,4 @@
-# ElectronicsAccescories
+# ElectronicsAccesceries
 
 `ElectronicsAccescories` is a browser-only ecommerce demo for headphones and gaming audio products. It is built with plain HTML, CSS, and JavaScript and presents a small storefront experience called `SonicCart`.
 
